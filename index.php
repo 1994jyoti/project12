@@ -278,21 +278,21 @@ text-align: center;
   </ul>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="images/p6.jpg" alt="Los Angeles" width="100%" height="500">
+      <img src="/images/p6.jpg" alt="Los Angeles" width="100%" height="500">
       <div class="carousel-caption">
         <h1 class="animated fadeInDownBig delay-1s"> Leader Classes</h1>
         <p>the world's best Career Advancement & Leadership Development! </p>
       </div>   
     </div>
     <div class="carousel-item">
-      <img src="images/p7.png" alt="Chicago" width="100%" height="500">
+      <img src="/images/p7.png" alt="Chicago" width="100%" height="500">
       <div class="carousel-caption">
         <h1>Extraordinary Leaders</h1>
         <p>World Class Institutions through Specialized,  Affordable!</p>
       </div>   
     </div>
     <div class="carousel-item">
-      <img src="images/p8.jpg" alt="New York" width="100%" height="500">
+      <img src="/images/p8.jpg" alt="New York" width="100%" height="500">
       <div class="carousel-caption">
         <h1>Career & Business Success</h1>
         <p> transforming you into a better & more effective Leader.
