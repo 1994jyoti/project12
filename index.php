@@ -363,13 +363,13 @@ text-align: center;
   <!-- The slideshow -->
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="images/company.png" alt="Los Angeles" width="100%" height="100%">
+      <img src="company.png" alt="Los Angeles" width="100%" height="100%">
     </div>
     <div class="carousel-item">
-      <img src="images/company2.png" alt="Chicago" width="100%" height="100%">
+      <img src="company2.png" alt="Chicago" width="100%" height="100%">
     </div>
     <div class="carousel-item">
-      <img src="images/company3.png" alt="New York" width="100%" height="100%">
+      <img src="company3.png" alt="New York" width="100%" height="100%">
     </div>
   </div>
   
@@ -391,14 +391,14 @@ text-align: center;
 <div class="container-fluid ">
   <div class="rowofimg1">
     <h1>WORLD LEADERS</h1>
-    <img src="images/underline2.png">
+    <img src="underline2.png">
     </div>
   <div class="row row1">
-  <div class="col-md-4"><img src="images/apj.jpg" class="rounded" width="100%">
+  <div class="col-md-4"><img src="apj.jpg" class="rounded" width="100%">
     <h5 class="nameofimg"> Dr. APJ ABDUL KALAM</h5></div>
-  <div class="col-md-4"><img src="images/brak.jpg" class="rounded" width="100%" >
+  <div class="col-md-4"><img src="brak.jpg" class="rounded" width="100%" >
   <h5 class="nameofimg"> BARACK OBAMA</h5></div>
-  <div class="col-md-4"><img src="images/brenjin.jpg" class="rounded" width="100%">
+  <div class="col-md-4"><img src="brenjin.jpg" class="rounded" width="100%">
   <h5 class="nameofimg"> BENJAMIN NETANYAHU</h5></div>
   </div>
 
@@ -407,14 +407,14 @@ text-align: center;
 <div class="container-fluid">
   <div class="rowofimg1">
     <h1>VISIONARIES & PIONEERS</h1>
-    <img src="images/underline2.png">
+    <img src="underline2.png">
     </div>  
   <div class="row row1">
-  <div class="col-md-4"><img src="images/jrd.jpg" class="rounded" width="100%">
+  <div class="col-md-4"><img src="jrd.jpg" class="rounded" width="100%">
   <h5 class="nameofimg"> JRD TATA</h5></div>
-  <div class="col-md-4"><img src="images/stave.jpg" class="rounded" width="100%" >
+  <div class="col-md-4"><img src="stave.jpg" class="rounded" width="100%" >
   <h5 class="nameofimg"> STEVE JOBS</h5></div>
-  <div class="col-md-4"><img src="images/jeff.jpg" class="rounded" width="100%">
+  <div class="col-md-4"><img src="jeff.jpg" class="rounded" width="100%">
   <h5 class="nameofimg"> JEFF BEZOS</h5></div>
   </div>
 
@@ -423,14 +423,14 @@ text-align: center;
 <div class="container-fluid">
   <div class="rowofimg1">
     <h1>BUSINESS LEGENDS</h1>
-    <img src="images/underline2.png">
+    <img src="underline2.png">
     </div>
   <div class="row row1">
-  <div class="col-md-4"><img src="images/WARREN.jpg" class="rounded-circle" width="100%">
+  <div class="col-md-4"><img src="WARREN.jpg" class="rounded-circle" width="100%">
   <h5 class="nameofimg">WARREN BUFFETT</h5></div>
-  <div class="col-md-4"><img src="images/BILLGATES.jpg" class="rounded-circle" width="100%">
+  <div class="col-md-4"><img src="BILLGATES.jpg" class="rounded-circle" width="100%">
   <h5 class="nameofimg">BILL GATES</h5></div>
-  <div class="col-md-4"><img src="images/JACKMA.jpg" class="rounded-circle" width="100%">
+  <div class="col-md-4"><img src="JACKMA.jpg" class="rounded-circle" width="100%">
   <h5 class="nameofimg"> JACK MA</h5></div>
   </div>
 
@@ -440,14 +440,14 @@ text-align: center;
 <div class="container-fluid">
   <div class="rowofimg1">
     <h1>INNOVATORS</h1>
-    <img src="images/underline2.png">
+    <img src="underline2.png">
     </div>
   <div class="row row1">
-  <div class="col-md-4"><img src="images/JOHNDOERR.jpg" class="rounded-circle" width="100%">
+  <div class="col-md-4"><img src="JOHNDOERR.jpg" class="rounded-circle" width="100%">
   <h5 class="nameofimg">JOHN DOERR</h5></div>
-  <div class="col-md-4"><img src="images/MARYMEEKER.jpg" class="rounded-circle" width="100%">
+  <div class="col-md-4"><img src="MARYMEEKER.jpg" class="rounded-circle" width="100%">
   <h5 class="nameofimg"> MARY MEEKER</h5></div>
-  <div class="col-md-4"><img src="images/DR. LARRY PAGE.jpg" class="rounded-circle" width="100%">
+  <div class="col-md-4"><img src="DR. LARRY PAGE.jpg" class="rounded-circle" width="100%">
   <h5 class="nameofimg">DR. LARRY PAGE</h5></div>
   </div>
 
@@ -456,14 +456,14 @@ text-align: center;
 <div class="container-fluid">
   <div class="rowofimg1">
     <h1>FUTURISTS</h1>
-    <img src="images/underline2.png">
+    <img src="underline2.png">
     </div>
   <div class="row row1">
-  <div class="col-md-4"><img src="images/Dr.RAY KUZWEIL.jpg" class="img-thumbnail" width="100%">
+  <div class="col-md-4"><img src="Dr.RAY KUZWEIL.jpg" class="img-thumbnail" width="100%">
   <h5 class="nameofimg"> Dr.RAY KUZWEIL</h5></div>
-  <div class="col-md-4"><img src="images/Dr. MICHIO KAKU.jpg" class="img-thumbnail" width="100%">
+  <div class="col-md-4"><img src="Dr. MICHIO KAKU.jpg" class="img-thumbnail" width="100%">
   <h5 class="nameofimg"> Dr. MICHIO KAKU</h5></div>
-  <div class="col-md-4"><img src="images/Dr. JOHN NAISBITT.jpg" class="img-thumbnail" width="100%">
+  <div class="col-md-4"><img src="Dr. JOHN NAISBITT.jpg" class="img-thumbnail" width="100%">
   <h5 class="nameofimg"> Dr. JOHN NAISBITT</h5></div>
   </div>
 
@@ -472,14 +472,14 @@ text-align: center;
 <div class="container-fluid">
   <div class="rowofimg1">
     <h1>THOUGHT LEADERS</h1>
-    <img src="images/underline2.png">
+    <img src="underline2.png">
     </div>
   <div class="row row1">
-  <div class="col-md-4"><img src="images/JIM COLLINS.jpg" class="img-thumbnail" width="100%">
+  <div class="col-md-4"><img src="JIM COLLINS.jpg" class="img-thumbnail" width="100%">
   <h5 class="nameofimg">JIM COLLINS</h5></div>
-  <div class="col-md-4"><img src="images/ROBIN SHARMA.jpg" class="img-thumbnail" width="100%">
+  <div class="col-md-4"><img src="ROBIN SHARMA.jpg" class="img-thumbnail" width="100%">
   <h5 class="nameofimg"> ROBIN SHARMA</h5></div>
-  <div class="col-md-4"><img src="images/Dr. DANIEL GOLEMAN.jpg" class="img-thumbnail" width="100%">
+  <div class="col-md-4"><img src="Dr. DANIEL GOLEMAN.jpg" class="img-thumbnail" width="100%">
   <h5 class="nameofimg"> Dr. DANIEL GOLEMAN</h5></div>
   </div>
 
@@ -552,7 +552,7 @@ Level-III
             <h5>Hear what Top Tier CEOs & Emerging CEO are saying about LeaderClasses Via their Video Testimonials below </h5> 
   <div class="row row2">
   <div class="col-md-4">
-     <img src="images/ram.jpg" class="rounded-circle" width="100%">
+     <img src="ram.jpg" class="rounded-circle" width="100%">
      <h5 class="nameofimg">Ram Gopal<br>
         Chief Executive Officer
              Barclays India</h5>
@@ -578,7 +578,7 @@ Additionally, Ram is also a member of the European Business Group Banking Financ
 <div class="container-fluid">
   <div class="row row2">
   <div class="col-md-4">
-     <img src="images/Gunjan.jpg" class="rounded-circle" width="90%">
+     <img src="Gunjan.jpg" class="rounded-circle" width="90%">
      <h5 class="nameofimg">Gunjan Srivastava<br>
  Chairman- Region Asia Pacific Board, Bosch Siemens Home Appliances</h5>
    </div>
@@ -606,7 +606,7 @@ Additionally, Ram is also a member of the European Business Group Banking Financ
 
   <div class="row row2">
   <div class="col-md-4">
-     <img src="images/Achint.jpg" class="rounded-circle" width="90%">
+     <img src="Achint.jpg" class="rounded-circle" width="90%">
      <h5 class="nameofimg">Achint Setia<br>
 Vice President, Marketing at Myntra</h5>
    </div>
@@ -632,7 +632,7 @@ Vice President, Marketing at Myntra</h5>
 <div class="container-fluid">
   <div class="row row2">
   <div class="col-md-4">
-     <img src="images/Nitin.jpg" class="rounded-circle" width="100%">
+     <img src="Nitin.jpg" class="rounded-circle" width="100%">
      <h5 class="nameofimg">Nitin Kochhar<br>
           COO @ Hero Electronix </h5>
    </div>
